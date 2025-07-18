@@ -58,7 +58,7 @@ Install dependencies
 
 bash
 pip install -r requirements.txt
-Open the Jupyter notebooks and explore each project
+Open the google colab and explore each project
 
 👨‍💻 About Me
 I’m a data enthusiast with a strong passion for building real-world machine learning solutions that make a difference. These projects reflect not just my technical skills, but my ability to communicate insights clearly and solve meaningful problems.
